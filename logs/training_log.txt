@@ -1,0 +1,4 @@
+Training started
+SVM model trained successfully
+Accuracy: 0.81
+[1]
